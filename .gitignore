@@ -1,0 +1,22 @@
+# compiled output
+/dist
+/tmp
+
+# dependencies
+/node_modules
+/bower_components
+
+# IDEs and editors
+/.idea
+/.vscode
+.project
+.classpath
+*.launch
+.settings/
+
+# misc
+npm-debug.log
+
+#System Files
+.DS_Store
+Thumbs.db
